@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WQeozBimSDsGLA99pdKLC3tZlV/15HMmG2MjU7h9Q6CW755xD+6FYoB/q28T4WWLpOBEmMfCTRnyRgFp4ry6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\varka\\Documents\\4course1sem\\ИИ Основы искусственного интеллекта\\лаба 7 Метод Пчелиной Колонии\\gitRep\\BeesAlg\\BeesAlg\\BeesAlg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\varka\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.7\\microsoft.extensions.objectpool.6.0.7.nupkg.sha512",
+    "C:\\Users\\varka\\.nuget\\packages\\nostringevaluating\\2.5.1\\nostringevaluating.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
